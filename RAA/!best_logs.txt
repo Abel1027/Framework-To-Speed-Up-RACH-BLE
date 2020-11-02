@@ -1,0 +1,4 @@
+BLE: Framework after SIB1 and frequency assigned by gNB
+BLE (Random): Framework after SIB1 and frequency assigned by gNB
+WiFi: Framework after SIB1
+WiFi (Random): Framework after SIB1 and frequency assigned by gNB
