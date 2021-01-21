@@ -1,0 +1,4 @@
+BLE: Framework after SIB1
+BLE (Random): Framework after SIB1
+WiFi: Framework after SIB1
+WiFi (Random): Framework after SIB1
